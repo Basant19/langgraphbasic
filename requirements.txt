@@ -1,0 +1,74 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# GPU Support
+torch
+
+# Web Interface
+streamlit
+
+# Structured Output
+pydantic
+typing-extensions
+
+# Visualize LangChain Chains
+grandalf
+
+# Document Loaders
+langchain-community
+
+# PDF and HTML Parsing
+pypdf
+beautifulsoup4
+requests
+
+# Experimental LangChain Features
+langchain-experimental
+langchain_experimental
+
+# Vector Store Backends
+chromadb
+tiktoken
+sentence-transformers
+faiss-cpu
+wikipedia
+ipykernel
+
+# YouTube Transcript Support
+youtube-transcript-api
+
+# Web Search
+duckduckgo-search
+
+# Fine-Tuning and Training
+datasets
+peft
+accelerate
+bitsandbytes
+
+langchain-groq 
+langchain_tavily
