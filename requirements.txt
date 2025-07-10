@@ -76,3 +76,4 @@ langchain_tavily
 langgraph
 
 langsmith
+langgraph-cli[inmem]
