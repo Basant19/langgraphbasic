@@ -48,7 +48,6 @@ requests
 
 # Experimental LangChain Features
 langchain-experimental
-langchain_experimental
 
 # Vector Store Backends
 chromadb
