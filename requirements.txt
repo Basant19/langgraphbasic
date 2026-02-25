@@ -12,6 +12,7 @@ langchain-anthropic
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
+google-genai
 
 # Hugging Face Integration
 langchain-huggingface
@@ -25,8 +26,6 @@ python-dotenv
 numpy
 scikit-learn
 
-# GPU Support
-torch
 
 # Web Interface
 streamlit
