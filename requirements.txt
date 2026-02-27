@@ -5,6 +5,7 @@ langchain-core
 # OpenAI Integration
 langchain-openai
 openai
+langchain.messages 
 
 # Anthropic Integration
 langchain-anthropic
