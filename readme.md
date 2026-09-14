@@ -1,4 +1,4 @@
-This tutorial is from langraph developers 
+This tutorial is from langgraph developers 
 use relative path to run the the files which are inside folder # langgraphbasic
 
 
